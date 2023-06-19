@@ -1,0 +1,2 @@
+# SampleRepo
+Using github pages
